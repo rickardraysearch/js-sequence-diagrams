@@ -1,4 +1,7 @@
 {
+  "name": "js-sequence-diagrams",
+  "version": "1.0.6",
+  "description": "Generates UML sequence diagrams from simple text",
   "devDependencies": {
     "jison": "0.4.15",
     "jshint": "2.7.x",
